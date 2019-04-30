@@ -56,7 +56,8 @@
 			"no-useless-constructor": "off",
 			"@typescript-eslint/no-use-before-define": "off",
 			"no-use-before-define": "off",
-			"guard-for-in": "off"
+			"guard-for-in": "off",
+			"@typescript-eslint/no-empty-interface": "off"
 		}
 	},
 	"eslintIgnore": [
